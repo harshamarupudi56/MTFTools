@@ -1,4 +1,8 @@
 # MTFTools for 2D & 3D MTF Measurement 
+
+Fork of MTF Tools used in calculating 3D MTF for Photon Counting CT. Implemented different segmentation for the spheres and rebinning functions. 
+
+
 `MTFTools` enables 2D / 3D line spread function (LSF), edge spread function (ESF), and modulation transfer function (MTF) calculation from a variety of  test phantoms (wire, slit, edge/plane, wedge, circular rod, sphere) for X-ray, CT, and Cone-Beam CT systems.
 
 This toolbox was developed at I-STAR Lab at Johns Hopkins University. Contact Pengwei Wu (pengwei.wu@jhu.edu) or Jeff Siewerdsen (jeff.siewerdsen@jhu.edu) with questions. This toolbox can also be downloaded from https://i-star.jhu.edu/downloads/. 
