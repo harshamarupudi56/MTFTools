@@ -19,3 +19,4 @@ function thresh = calculateThreshold(img, method)
             error('Invalid method. Use ''otsu'', ''yen'', ''triangle'', or ''isodata''.');
     end
 end
+ 
